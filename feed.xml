@@ -10,6 +10,7 @@
     <itunes:explicit>yes</itunes:explicit>
     <itunes:image href="https://raw.githubusercontent.com/doomlover64/chucklenuts/refs/heads/main/chucklenuts.jpg" />
 
+    <!-- Episode 1 -->
     <item>
       <title>Spaceguy Sets His House on Fire</title>
       <enclosure url="https://github.com/doomlover64/chucklenuts/raw/refs/heads/main/Chucklenuts%20-%20Episode%201.mp3" length="12345678" type="audio/mpeg"/>
@@ -18,5 +19,14 @@
       <itunes:summary>On the first episode of the Chucklenuts Podcast, famous youtuber SpaceGuyOnline sets his house on fire, Zenith plays 8 ball, and Great Blue talks about weapon reskins in Team Fortress 2</itunes:summary>
     </item>
 
+    <!-- Episode 2
+    <item>
+      <title>Spaceguy Sets His House on Fire</title>
+      <enclosure url="https://github.com/doomlover64/chucklenuts/raw/refs/heads/main/Chucklenuts%20-%20Episode%201.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://github.com/doomlover64/chucklenuts/raw/refs/heads/main/Chucklenuts%20-%20Episode%201.mp3</guid>
+      <pubDate>Sun, 10 May 2022 10:00:00 GMT</pubDate>
+      <itunes:summary>On the first episode of the Chucklenuts Podcast, famous youtuber SpaceGuyOnline sets his house on fire, Zenith plays 8 ball, and Great Blue talks about weapon reskins in Team Fortress 2</itunes:summary>
+    </item>-->
+    
   </channel>
 </rss>
